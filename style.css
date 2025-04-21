@@ -70,12 +70,12 @@ header h1 {
   list-style: none;
   margin: 5px;
   padding: 2px;
-  width: 8em;
+  width: 12em;
 }
 #main_slider ul li img {
   margin: 0;
   padding: 0;
-  width: 8em
+  width: 12em
 }
 #main_slider li p {
   color: #555;
